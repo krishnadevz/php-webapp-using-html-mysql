@@ -2,8 +2,6 @@
 include("connection.php");
 error_reporting(0);
 ?>
-
-
 <!DOCTYPE html>
 <html>
 <head><title>Online Shoe Inventory</title>
