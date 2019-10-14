@@ -12,7 +12,7 @@
 width="500">
 <br>
 <br>
-<b>This project running on the localhost XAMMP server on Port:8080 and all files written in plain HTML and CSS and php(personal home languages ) you can edit the code according to your database and table </b>
+<b>This project running on the localhost XAMMP server on Port:8080 and all files written in plain HTML and CSS and php(personal home languages ) you can edit the code according to your database and table And you can run this project on your local system.</b>
   
   
   
