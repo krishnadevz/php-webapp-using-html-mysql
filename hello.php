@@ -1,3 +1,6 @@
+
+#sample php code i used for the testing purpose
+#author krishna kakade krishnakakadegithub.io 
 <?php
 include("connection.php");
 
