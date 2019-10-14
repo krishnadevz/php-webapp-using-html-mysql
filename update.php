@@ -177,8 +177,6 @@ else{
 
  ?>
     
-
-
 </div>
 	</body>
 </html>
