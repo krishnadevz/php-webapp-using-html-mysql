@@ -1,5 +1,5 @@
 # php-webapp-using-mysql
-# This Project you cannot find on google UI and everything you can find php snippets but not overall UI and everything 
+# This Project you cannot find on Google  you can find php snippets but not overall UI and everything But functioning and other working of php files for CRUD operations are unique 
 
 <b>Simple webpage based php(Personal home page) webpage created for performing CRUD operations (INSERT ,UPDATE,DISPLAY,DELETE) performed on simple webpage through mysql database queries and using xammp server<b>.
   
