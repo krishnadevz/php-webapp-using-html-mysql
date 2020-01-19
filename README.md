@@ -33,7 +33,7 @@ width="500">
   
 ## Authors
 
-* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
 
   <br>
   
